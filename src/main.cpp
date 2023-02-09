@@ -17,10 +17,8 @@
 
 
 int main() {
-// TODO: Make a title menu and DO NOT fix this in the linter until thats completely done.
-
-std::cout << " "  << std::endl;
-
+  // TODO: Make a title menu and DO NOT fix this in the linter until thats completely done.
+  printMainMenu();
 
 
 return 0;
